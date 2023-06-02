@@ -1,6 +1,6 @@
 document.getElementById("rzp-button1").onclick = function (e) {
   var options = {
-    key: "rzp_test_tOtH8qHPj6xmpL",
+    key: "rzp_test_PV1oQ0oMtgXOsq",
     amount: 300 * 100,
     currency: "INR",
     name: "MyShop Checkout",
